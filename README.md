@@ -6,11 +6,11 @@ But I'm back now and already building!
 
 ## About Me
 
-🔭 I’m currently working on: a yet-to-be-named open-source Twitter clone built on a distributed web protocol called [Holochain](https://www.holochain.org).
-🌱 I’m currently learning: Typescript
-🤔 What I want to learn next: Rust + Clojure
-📫 How to reach me: superdavedadev at gmail
-⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond))
+- 🔭 I’m currently working on: a yet-to-be-named open-source Twitter clone built on a distributed web protocol called [Holochain](https://www.holochain.org).
+- 🌱 I’m currently learning: Typescript
+- 🤔 What I want to learn next: Rust + Clojure
+- 📫 How to reach me: superdavedadev at gmail
+- ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond))
 
 ## 🔧 Tools I Love
 
