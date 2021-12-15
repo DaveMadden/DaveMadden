@@ -1,8 +1,9 @@
 # David Madden
 
 👋 Hi, I'm David.
-I'm a software engineer who stepped away from the keyboard for a decade to be a Navy SEAL Officer.
-But I'm back now and already building!
+I'm a software engineer who stepped away from the keyboard for a decade to be a Navy SEAL Officer. <br>
+I also founded/ran a startup for a few years (did not find PMF).<br>
+                                   Now I'm back to building things and I love it!
 
 ## About Me
 
