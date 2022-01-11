@@ -19,6 +19,7 @@ I also founded/ran a startup for a few years (did not find PMF).<br>
 - [Potluck Planner Backend](https://potluck-shenanigans.herokuapp.com/) [(github repo for backend)](https://github.com/Potluck-build/backend)
 -- I built the entire backend server with node.js, express, and postgreSQL
 - [Decentralized Twitter Front End (repo, work in progress)](https://github.com/DaveMadden/birb-react)
+-- will be connected to a decentralized backend on [Holochain](https://www.holochain.org/)
 
 ## 🔧 Tools I Love
 
