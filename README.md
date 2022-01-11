@@ -15,6 +15,9 @@ I also founded/ran a startup for a few years (did not find PMF).<br>
 
 ## Featured Projects
 - [Anywhere Fitness App](https://anywhere-fitness-2-kappa.vercel.app/) [(github repo here)](https://github.com/bw-anywherefitness-happyfuntime/front-end)
+-- I built all the React components for this application
+- [Potluck Planner Backend](https://potluck-shenanigans.herokuapp.com/) [(github repo for backend)](https://github.com/Potluck-build/backend)
+-- I built the entire backend server with node.js, express, and postgreSQL
 - [Decentralized Twitter Front End (repo, work in progress)](https://github.com/DaveMadden/birb-react)
 
 ## 🔧 Tools I Love
