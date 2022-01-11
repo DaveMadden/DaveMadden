@@ -13,6 +13,10 @@ I also founded/ran a startup for a few years (did not find PMF).<br>
 - 📫 How to reach me: superdavedadev at gmail
 - ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond))
 
+## Featured Projects
+- [Anywhere Fitness App](https://anywhere-fitness-2-kappa.vercel.app/) [(github repo here)](https://github.com/bw-anywherefitness-happyfuntime/front-end)
+- [Decentralized Twitter Front End (repo, work in progress)](https://github.com/DaveMadden/birb-react)
+
 ## 🔧 Tools I Love
 
 - [React](https://reactjs.org/)
