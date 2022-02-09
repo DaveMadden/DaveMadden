@@ -1,7 +1,7 @@
 # David Madden
 
 👋 Hi, I'm David.
-I'm a software engineer who stepped away from the profession for a decade to be a Navy SEAL Officer, but I never stopped making things. After the SEAL Teams I also founded/ran an HR SaaS startup for a few years.<br>
+I'm a software engineer who stepped away from the profession for a decade to be a Navy SEAL Officer, but I never stopped making things. After the SEAL Teams I also founded/ran an HR SaaS startup for two years.<br>
 
 ## About Me
 
