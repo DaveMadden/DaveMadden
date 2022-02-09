@@ -3,7 +3,6 @@
 👋 Hi, I'm David.
 I'm a software engineer who stepped away from the profession for a decade to be a Navy SEAL Officer, but I never stopped making things. <br>
 I also founded/ran a startup for a few years.<br>
-Now I'm back to building things and I'm looking for a great team to be a part of!
 
 ## About Me
 
