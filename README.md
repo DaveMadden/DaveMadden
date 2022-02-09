@@ -1,9 +1,9 @@
 # David Madden
 
 👋 Hi, I'm David.
-I'm a software engineer who stepped away from the keyboard for a decade to be a Navy SEAL Officer. <br>
-I also founded/ran a startup for a few years (did not find PMF).<br>
-                                   Now I'm back to building things and I love it!
+I'm a software engineer who stepped away from the profession for a decade to be a Navy SEAL Officer, but I never stopped making things. <br>
+I also founded/ran a startup for a few years.<br>
+Now I'm back to building things and I'm looking for a great team to be a part of!
 
 ## About Me
 
@@ -11,7 +11,7 @@ I also founded/ran a startup for a few years (did not find PMF).<br>
 - 🌱 I’m currently learning: Typescript
 - 🤔 What I want to learn next: Rust + Clojure
 - 📫 How to reach me: superdavedadev at gmail
-- ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond))
+- ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond)). Not only did I lead the unit for 5 years, but I also wrote the code that controlled classified payloads on all our projects. So even as a Navy SEAL I was building things with code.
 
 ## Featured Projects
 - [Anywhere Fitness App](https://anywhere-fitness-2-kappa.vercel.app/) [(github repo here)](https://github.com/bw-anywherefitness-happyfuntime/front-end)
