@@ -5,22 +5,19 @@ I'm a software engineer who stepped away from the profession for a decade to be 
 
 ## About Me
 
-- 🔭 I’m currently working on: a yet-to-be-named open-source Twitter clone built on a distributed web protocol called [Holochain](https://www.holochain.org).
-- 🌱 I’m currently learning: Typescript
-- 🤔 What I want to learn next: Rust + Clojure
+- 🔭 I’m currently working on: building internal tools for [Replit](www.replit.com) including:
+  - bug triage bots
+  - custom issue-tracker
+  - documentation
+  - changelog
+- 🌱 I’m currently learning: GraphQL + Apollo
+- 🤔 What I want to learn next: Clojure (I love functional programming and am fascinated by the potential of a purpose-built FP language)
 - 📫 How to reach me: superdavedadev at gmail
 - ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond)). Not only did I lead the unit for 5 years, but I also wrote the code that controlled classified payloads on all our projects. So even as a Navy SEAL I was building things with code.
 
-## Featured Projects
-- [Anywhere Fitness App](https://anywhere-fitness-2-kappa.vercel.app/) [(github repo here)](https://github.com/bw-anywherefitness-happyfuntime/front-end)
--- I built all the React components for this application
-- [Potluck Planner Backend](https://potluck-shenanigans.herokuapp.com/) [(github repo for backend)](https://github.com/Potluck-build/backend)
--- I built the entire backend server with node.js, express, and postgreSQL
-- [Decentralized Twitter Front End (repo, work in progress)](https://github.com/DaveMadden/birb-react)
--- will be connected to a decentralized backend on [Holochain](https://www.holochain.org/)
 
 ## 🔧 Tools I Love
 
 - [React](https://reactjs.org/)
-- [Redux](https://redux.js.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [GraphQL](https://graphql.org)
