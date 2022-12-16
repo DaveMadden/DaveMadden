@@ -5,9 +5,9 @@ I'm a software engineer who stepped away from the profession for a decade to be 
 
 ## About Me
 
-- 🔭 I’m currently working on: building internal tools for [Replit](www.replit.com) including:
+- 🔭 I’m currently building an AI-powered interactive video tutor with Kyron Learning.
+- ⠕ Formerly at [Replit](www.replit.com) where I worked on internal tools like:
   - bug triage bots
-  - custom issue-tracker
   - documentation
   - changelog
 - 🌱 I’m currently learning: GraphQL + Apollo
