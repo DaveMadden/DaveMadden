@@ -6,10 +6,12 @@ I'm a software engineer who stepped away from the profession for a decade to be 
 ## About Me
 
 - 🔭 I’m currently building an AI-powered interactive video tutor with Kyron Learning.
-- ⠕ Formerly at [Replit](www.replit.com) where I worked on internal tools like:
+- ⠕ Formerly at [Replit](www.replit.com) where I worked on things like:
   - bug triage bots
-  - documentation
-  - changelog
+  - bug fixes
+  - documentation (code and content)
+  - changelog (code and content)
+  - 
 - 🌱 I’m currently learning: GraphQL + Apollo
 - 🤔 What I want to learn next: Clojure (I love functional programming and am fascinated by the potential of a purpose-built FP language)
 - 📫 How to reach me: superdavedadev at gmail
@@ -18,6 +20,6 @@ I'm a software engineer who stepped away from the profession for a decade to be 
 
 ## 🔧 Tools I Love
 
-- [React](https://reactjs.org/)
+- [React](https://reactjs.org/) - also, [their new docs](https://beta.reactjs.org/) are *incredible*
 - [TypeScript](https://www.typescriptlang.org/)
 - [GraphQL](https://graphql.org)
