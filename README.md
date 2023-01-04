@@ -11,7 +11,7 @@ I'm a software engineer who stepped away from the profession for a decade to be 
   - bug fixes
   - documentation (code and content)
   - changelog (code and content)
-  - 
+  - an in-app bug report form that enabled users to record their screens without leaving the app
 - 🌱 I’m currently learning: GraphQL + Apollo
 - 🤔 What I want to learn next: Clojure (I love functional programming and am fascinated by the potential of a purpose-built FP language)
 - 📫 How to reach me: superdavedadev at gmail
