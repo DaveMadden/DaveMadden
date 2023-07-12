@@ -5,7 +5,8 @@ I'm a software engineer who stepped away from the profession for a decade to be 
 
 ## About Me
 
-- 🔭 I’m currently building an AI-powered interactive video tutor with Kyron Learning.
+- 🔭 I’m currently working as a building prototype Open Source Intelligence tools with Vannevar Labs.
+- 👨🏻‍🏫 Formerly rebuilt the UI for an AI-powered interactive video tutor with Kyron Learning.
 - ⠕ Formerly at [Replit](www.replit.com) where I worked on things like:
   - bug triage bots
   - bug fixes
@@ -13,11 +14,9 @@ I'm a software engineer who stepped away from the profession for a decade to be 
   - changelog (code and content)
   - an in-app bug report form that enabled users to record their screens without leaving the app
 - 🌱 I’m currently learning: GraphQL + Apollo
-- 🤔 What I want to learn next: 
-  - Rust ([carcinization](https://en.wikipedia.org/wiki/Carcinisation) is real 🦀)
+- 🤔 What I want to learn next:
   - Go
   - Emacs (it's cool to build your own lightsaber 🔦)
-  - Clojure (I love functional programming and am fascinated by the potential of a purpose-built FP language)
 - 📫 How to reach me: superdavedadev at gmail
 - ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond)). Not only did I found and lead the unit for 5 years, but I also wrote the code that controlled classified payloads on all our projects - even as a Navy SEAL I was building things with code.
 
