@@ -13,10 +13,12 @@ I'm a software engineer who stepped away from the profession for a decade to be 
   - documentation (code and content)
   - changelog (code and content)
   - an in-app bug report form that enabled users to record their screens without leaving the app
-- 🌱 I’m currently learning: GraphQL + Apollo
+- 🌱 I’m currently learning:
+  - refining my typescript skills
+  - temporal
+  - LLM integrations
 - 🤔 What I want to learn next:
   - Go
-  - Emacs (it's cool to build your own lightsaber 🔦)
 - 📫 How to reach me: superdavedadev at gmail
 - ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond)). Not only did I found and lead the unit for 5 years, but I also wrote the code that controlled classified payloads on all our projects - even as a Navy SEAL I was building things with code.
 
