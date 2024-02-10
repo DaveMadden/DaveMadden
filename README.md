@@ -17,14 +17,14 @@ I'm a software engineer who stepped away from the profession for a decade to be 
   - refining my typescript skills
   - temporal
   - LLM integrations
-- 🤔 What I want to learn next:
   - Go
+  - HTMX
 - 📫 How to reach me: superdavedadev at gmail
 - ⚡ Fun fact: I built the SEAL Teams' rapid prototyping and tactical technology capability, so the SEAL Admiral referred to me as his ["Q"](https://en.wikipedia.org/wiki/Q_(James_Bond)). Not only did I found and lead the unit for 5 years, but I also wrote the code that controlled classified payloads on all our projects - even as a Navy SEAL I was building things with code.
 
 
 ## 🔧 Tools I Love
 
-- [React](https://reactjs.org/) - also, [their new docs](https://beta.reactjs.org/) are *incredible*
-- [TypeScript](https://www.typescriptlang.org/)
-- [GraphQL](https://graphql.org)
+- Golang
+- HTMX
+- NeoVim
